@@ -1,4 +1,4 @@
-## Hi, I'm Ahmad 👋
+## Hi, I'm Ahmad ALqrni 👋
 
 🎓 Software Engineering Student  
 💻 Full-Stack Developer  
