@@ -1,29 +1,17 @@
-## Hi, I'm Ahmad Alqrni 👋
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ahmadalqrni&theme=github-dark&mode=light" /></picture>
+</p>
 
-🎓 Software Engineering student · 💻 Building full-stack projects
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ahmadalqrni&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=ahmadalqrni&theme=github-dark" alt="About Ahmad alqrni" /></picture>
+</p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,rust,bash,python&perline=8&theme=dark" alt="Selected language and technology logos" />
+</p>
 
-### 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-**Frontend:** HTML · CSS · JavaScript · React
-**Backend:** Node.js · Express · Prisma · PostgreSQL
-**Auth & Tools:** JWT · bcrypt · Git · Prisma Studio
-
----
-
-### 🚀 Projects
-
-**🍅 Study With Me** — Pomodoro app with user accounts and daily streak tracking
-Full-stack: Node.js, Express, Prisma, PostgreSQL, JWT auth
-[Live](https://pomodoro-khaki-seven.vercel.app) · [Code](https://github.com/Ahmadalqrni/Pomodoro)
-
-**🌿 AirCare** — [Live](https://ahmadalqrni.github.io/Aircare/)
-
-**🌍 Sifar** — [Live](https://ahmadalqrni.github.io/sifar/)
-
-**🌱 Sustainability 3.0** — [Live](https://ahmadalqrni.github.io/sustainability3.0/)
-
----
-
-📚 Currently learning backend development and API design
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ahmadalqrni&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=ahmadalqrni&theme=github-dark" alt="GitHub Stats" /></picture>
+</p>
