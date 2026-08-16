@@ -11,6 +11,6 @@
 - 🌿 [AirCare](https://ahmadalqrni.github.io/Aircare/)
 - 🌍 [Sifar](https://ahmadalqrni.github.io/sifar/)
 - 🌱 [Sustainability 3.0](https://ahmadalqrni.github.io/sustainability3.0/)
-- 🍅 [Pomodoro](https://pomodoro-khaki-seven.vercel.app)
+- 🍅[Live site](https://pomodoro-khaki-seven.vercel.app) · [Code](https://github.com/Ahmadalqrni/Pomodoro)
 -----------------------------------------------------------------------------
 🚀 Building full-stack projects and improving every day
