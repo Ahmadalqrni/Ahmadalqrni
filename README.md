@@ -1,17 +1,27 @@
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ahmadalqrni&theme=github-dark&mode=light" /></picture>
-</p>
+<h1 align="center">Hi, I'm Ahmad Alqrni 👋</h1>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ahmadalqrni&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=ahmadalqrni&theme=github-dark" alt="About Ahmad alqrni" /></picture>
+Software Engineering student · Full-stack developer
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,rust,bash,python&perline=8&theme=dark" alt="Selected language and technology logos" />
-</p>
+---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ahmadalqrni&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=ahmadalqrni&theme=github-dark" alt="GitHub Stats" /></picture>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+#### 🍅 Study With Me
+Pomodoro study app with user accounts and daily streak tracking.
+Built with Node.js, Express, Prisma, and PostgreSQL — JWT auth in httpOnly cookies.
+[Live](https://pomodoro-khaki-seven.vercel.app) · [Code](https://github.com/Ahmadalqrni/Pomodoro)
+
+#### 🌿 AirCare
