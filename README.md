@@ -1,16 +1,29 @@
-## Hi, I'm Ahmad ALqrni 👋
-🎓 Software Engineering Student  
-💻 Full-Stack Developer  
+## Hi, I'm Ahmad Alqrni 👋
 
------------------------------------------------------------------------------
-### Tech Stack
-- Frontend: HTML, CSS, JavaScript, React  
-- Backend: Node.js (learning)
------------------------------------------------------------------------------
-## 🚀 Projects I’ve Built
-- 🌿 [AirCare](https://ahmadalqrni.github.io/Aircare/)
-- 🌍 [Sifar](https://ahmadalqrni.github.io/sifar/)
-- 🌱 [Sustainability 3.0](https://ahmadalqrni.github.io/sustainability3.0/)
-- 🍅[Live site](https://pomodoro-khaki-seven.vercel.app) · [Code](https://github.com/Ahmadalqrni/Pomodoro)
------------------------------------------------------------------------------
-🚀 Building full-stack projects and improving every day
+🎓 Software Engineering student · 💻 Building full-stack projects
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:** HTML · CSS · JavaScript · React
+**Backend:** Node.js · Express · Prisma · PostgreSQL
+**Auth & Tools:** JWT · bcrypt · Git · Prisma Studio
+
+---
+
+### 🚀 Projects
+
+**🍅 Study With Me** — Pomodoro app with user accounts and daily streak tracking
+Full-stack: Node.js, Express, Prisma, PostgreSQL, JWT auth
+[Live](https://pomodoro-khaki-seven.vercel.app) · [Code](https://github.com/Ahmadalqrni/Pomodoro)
+
+**🌿 AirCare** — [Live](https://ahmadalqrni.github.io/Aircare/)
+
+**🌍 Sifar** — [Live](https://ahmadalqrni.github.io/sifar/)
+
+**🌱 Sustainability 3.0** — [Live](https://ahmadalqrni.github.io/sustainability3.0/)
+
+---
+
+📚 Currently learning backend development and API design
