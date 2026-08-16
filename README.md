@@ -25,3 +25,23 @@ Built with Node.js, Express, Prisma, and PostgreSQL — JWT auth in httpOnly coo
 [Live](https://pomodoro-khaki-seven.vercel.app) · [Code](https://github.com/Ahmadalqrni/Pomodoro)
 
 #### 🌿 AirCare
+[Live](https://ahmadalqrni.github.io/Aircare/)
+
+#### 🌍 Sifar
+[Live](https://ahmadalqrni.github.io/sifar/)
+
+#### 🌱 Sustainability 3.0
+[Live](https://ahmadalqrni.github.io/sustainability3.0/)
+
+---
+
+### 📚 Currently
+
+Learning backend development — API design, authentication, and databases.
+
+---
+
+<p align="center">
+  <a href="mailto:your@email.com">Email</a> ·
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+</p>
